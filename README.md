@@ -1,3 +1,5 @@
+This is a raect greetings where you are wished by your own system as time changes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
